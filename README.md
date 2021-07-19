@@ -1,4 +1,3 @@
-# veganable.github.io
 <!DOCTYPE html>
 <html>
     <head>
